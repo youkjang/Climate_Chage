@@ -1,4 +1,4 @@
-## WSP application: Climate_Chage
+## Climate_Chage
 
 Maryland Climate Projection Analysis
 - LOCA CMIP6 climate data (GFDL-CM4)
