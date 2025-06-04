@@ -5,3 +5,7 @@ Maryland Climate Projection Analysis
 - SSP245, SSP585
 - Changes of Annual Mean Temperature
 - Threshold Analysis of Extreme Heat & Precipitation
+
+Bias Correction of Temperature Projection in MD
+- Daily LOCA, historical, and SSP585 of GFDL-ESM4 from CMIP6
+- Quantile Delta Mapping vs Mean Bias Correction (Scaling)
