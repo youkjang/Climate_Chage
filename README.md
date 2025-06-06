@@ -9,3 +9,11 @@ Maryland Climate Projection Analysis
 Bias Correction of Temperature Projection in MD
 - Daily LOCA, historical, and SSP585 of GFDL-ESM4 from CMIP6
 - Quantile Delta Mapping vs Mean Bias Correction (Scaling)
+
+Global Drought in the future climate
+- RCP8.5, RCP4.5, andRCP2.6 from CMIP5
+- REOF of Standardized Precipitation Index (SPI12)
+
+US Drought response to Pacific SST
+- AGCM response to idealized SST experiments
+- Decadal and interannual variabilities of the Pacific SST
